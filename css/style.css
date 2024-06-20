@@ -62,20 +62,10 @@ nav ul {
     line-height: 1.5;
 }
 .card_content {
-    background-color: #f4f4fd;
-}
-.card_content_a {
     background-color: #fff;
 }
 .floor {
     background: #2e2f42;
-}
-.floor a {
-    color: #4d5ae5;
-    font-family: "Raleway", sans-serif;
-}
-.floor p {
-    color: #f4f4fd;
 }
 .social_link {
     color: #434455;
@@ -112,6 +102,5 @@ nav ul {
     font-weight: 700;
 }
 .logo_text_a {
-    color: #f4f4fd;
     font-weight: 700;
 }
