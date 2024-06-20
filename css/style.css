@@ -1,72 +1,77 @@
 body {
-    width: 1440px;
+
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    background-color: #fff;
+}
+nav ul {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+
 }
 .block-1 {
-    width: 1440px;
-    height: 600px;
     background: #2e2f42;
 }
-h1 {
+.block-2 {
+    background-color: #fff;
+}
+.title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    width: 496px;
-    height: 120px;
     padding-left: 472px;
     padding-top: 188px;
     padding-bottom: 48px;
-}
-.order {
-    border-radius: 4px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
-    color: #fff;
-    cursor: pointer; 
 }
 .order:hover,
 .order:focus {
     background: #404BBF;
 }
 .container-button {
-    padding-left: 636px;
-    padding-top: 48px;
-    padding-bottom: 188px; 
+    font-family: "Roboto", sans-serif;
+    background: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    cursor: pointer;  
 }
-h2 {
+.title-2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
-h3 {
+.title-3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.title-text {
+    letter-spacing: 0.02em
+}
 .card-content {
     background-color: #f4f4fd;
 }
-footer {
+.floor {
     background: #2e2f42;
 }
-footer a {
+.floor a {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
 }
-footer p {
+.floor p {
     color: #f4f4fd;
 }
 .social-link {
@@ -75,20 +80,29 @@ footer p {
 .link {
     color: #2e2f42;
 }
+.info {
+    font-style: normal;
+    letter-spacing: 0.02em;
+}
 .social-link:hover,
 .social-link:focus {
-    color: #4d5ae5;
+    color: #404bbf;
     cursor: pointer;
-
+    
 }
 .link:hover,
 .link:focus {
-    color: #4d5ae5;
+    color: #404bbf;
     cursor: pointer;
 }
 .logo {
     color: #4d5ae5;
-    font-family: "Raleway", sans-serif
+    font-family: "Raleway", sans-serif;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo-text {
     color: #2e2f42;
