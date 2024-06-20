@@ -62,7 +62,10 @@ nav ul {
     line-height: 1.5;
 }
 .card_content {
-    background-color: #fff;
+    background-color:  #F4F4FD;
+}
+.project_card {
+    background-color: #FFFFFF;
 }
 .floor {
     background: #2e2f42;
