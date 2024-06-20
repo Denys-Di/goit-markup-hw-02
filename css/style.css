@@ -64,6 +64,9 @@ nav ul {
 .card_content {
     background-color: #f4f4fd;
 }
+.card_content_a {
+    background-color: #fff;
+}
 .floor {
     background: #2e2f42;
 }
@@ -108,7 +111,7 @@ nav ul {
     color: #2e2f42;
     font-weight: 700;
 }
-.logo_text-a {
+.logo_text_a {
     color: #f4f4fd;
     font-weight: 700;
 }
