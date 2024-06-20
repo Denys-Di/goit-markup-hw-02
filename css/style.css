@@ -24,14 +24,8 @@ nav ul {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    padding-left: 472px;
-    padding-top: 188px;
-    padding-bottom: 48px;
 }
-.order:hover,
-.order:focus {
-    background: #404BBF;
-}
+
 .container-button {
     font-family: "Roboto", sans-serif;
     background: #4d5ae5;
@@ -41,6 +35,10 @@ nav ul {
     letter-spacing: 0.04em;
     color: #fff;
     cursor: pointer;  
+}
+.container-button:hover,
+.container-button:focus {
+    background: #404BBF;
 }
 .title-2 {
     font-weight: 700;
@@ -106,7 +104,9 @@ nav ul {
 }
 .logo-text {
     color: #2e2f42;
+    font-weight: 700px;
 }
 .logo-text-1 {
     color: #f4f4fd;
+    font-weight: 700px;
 }
