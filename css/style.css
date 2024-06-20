@@ -64,7 +64,7 @@ nav ul {
 .card_content {
     background-color:  #F4F4FD;
 }
-.project_card {
+.project_card li {
     background-color: #FFFFFF;
 }
 .floor {
@@ -72,6 +72,7 @@ nav ul {
 }
 .floor_text {
     color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
 .social_link {
     color: #434455;
