@@ -11,10 +11,10 @@ nav ul {
     letter-spacing: 0.02em;
 
 }
-.block-1 {
+.bloc-a {
     background: #2e2f42;
 }
-.block-2 {
+.bloc-b {
     background-color: #fff;
 }
 .title {
@@ -40,7 +40,7 @@ nav ul {
 .container-button:focus {
     background: #404BBF;
 }
-.title-2 {
+.title-b {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -49,7 +49,7 @@ nav ul {
     color: #2e2f42;
     text-transform: capitalize
 }
-.title-3 {
+.title-c {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -96,7 +96,7 @@ nav ul {
 .logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -104,9 +104,7 @@ nav ul {
 }
 .logo-text {
     color: #2e2f42;
-    font-weight: 700px;
 }
-.logo-text-1 {
+.logo-text-a {
     color: #f4f4fd;
-    font-weight: 700px;
 }
