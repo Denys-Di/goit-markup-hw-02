@@ -6,6 +6,12 @@ body {
     color: #434455;
     background-color: #fff;
 }
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
 nav ul {
     font-weight: 500;
     letter-spacing: 0.02em;
